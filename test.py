@@ -1,0 +1,2 @@
+name = 'eunjin'
+print(name)
